@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikan.Services.Identity.Admin", "src\Nikan.Services.Identity.Admin\Nikan.Services.Identity.Admin.csproj", "{DAD7CB46-3510-4AEE-A6E5-0BD80AACC72C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nikan.Services.Identity.Admin", "src\Nikan.Services.Identity.Admin\Nikan.Services.Identity.Admin.csproj", "{DAD7CB46-3510-4AEE-A6E5-0BD80AACC72C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikan.Services.Identity.STS.Identity", "src\Nikan.Services.Identity.STS.Identity\Nikan.Services.Identity.STS.Identity.csproj", "{9A86CE5F-4556-4718-9E87-E7D8D8982523}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nikan.Services.Identity.STS.Identity", "src\Nikan.Services.Identity.STS.Identity\Nikan.Services.Identity.STS.Identity.csproj", "{9A86CE5F-4556-4718-9E87-E7D8D8982523}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikan.Services.Identity.Admin.Api", "src\Nikan.Services.Identity.Admin.Api\Nikan.Services.Identity.Admin.Api.csproj", "{A3D9ABD8-1FFB-4ACA-BD2C-2175FE0B3E70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nikan.Services.Identity.Admin.Api", "src\Nikan.Services.Identity.Admin.Api\Nikan.Services.Identity.Admin.Api.csproj", "{A3D9ABD8-1FFB-4ACA-BD2C-2175FE0B3E70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikan.Services.Identity.Admin.EntityFramework.Shared", "src\Nikan.Services.Identity.Admin.EntityFramework.Shared\Nikan.Services.Identity.Admin.EntityFramework.Shared.csproj", "{4FB3EE9F-6F07-4AB7-821C-F4F0C65CC109}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nikan.Services.Identity.Admin.EntityFramework.Shared", "src\Nikan.Services.Identity.Admin.EntityFramework.Shared\Nikan.Services.Identity.Admin.EntityFramework.Shared.csproj", "{4FB3EE9F-6F07-4AB7-821C-F4F0C65CC109}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikan.Services.Identity.Admin.EntityFramework.MySql", "src\Nikan.Services.Identity.Admin.EntityFramework.MySql\Nikan.Services.Identity.Admin.EntityFramework.MySql.csproj", "{8E1FBB05-D91B-4E11-BDD4-A7040F8096F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nikan.Services.Identity.Admin.EntityFramework.MySql", "src\Nikan.Services.Identity.Admin.EntityFramework.MySql\Nikan.Services.Identity.Admin.EntityFramework.MySql.csproj", "{8E1FBB05-D91B-4E11-BDD4-A7040F8096F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikan.Services.Identity.Admin.EntityFramework.PostgreSQL", "src\Nikan.Services.Identity.Admin.EntityFramework.PostgreSQL\Nikan.Services.Identity.Admin.EntityFramework.PostgreSQL.csproj", "{C16AD587-FC33-447B-9EBF-7EB5CC727DA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nikan.Services.Identity.Admin.EntityFramework.PostgreSQL", "src\Nikan.Services.Identity.Admin.EntityFramework.PostgreSQL\Nikan.Services.Identity.Admin.EntityFramework.PostgreSQL.csproj", "{C16AD587-FC33-447B-9EBF-7EB5CC727DA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikan.Services.Identity.Admin.EntityFramework.SqlServer", "src\Nikan.Services.Identity.Admin.EntityFramework.SqlServer\Nikan.Services.Identity.Admin.EntityFramework.SqlServer.csproj", "{622B98AA-5F9B-476E-A257-1F101AF34DEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nikan.Services.Identity.Admin.EntityFramework.SqlServer", "src\Nikan.Services.Identity.Admin.EntityFramework.SqlServer\Nikan.Services.Identity.Admin.EntityFramework.SqlServer.csproj", "{622B98AA-5F9B-476E-A257-1F101AF34DEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikan.Services.Identity.Shared", "src\Nikan.Services.Identity.Shared\Nikan.Services.Identity.Shared.csproj", "{E6D10FC7-F232-4D96-8063-F79B1B33CAD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nikan.Services.Identity.Shared", "src\Nikan.Services.Identity.Shared\Nikan.Services.Identity.Shared.csproj", "{E6D10FC7-F232-4D96-8063-F79B1B33CAD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
